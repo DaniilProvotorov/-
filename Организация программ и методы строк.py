@@ -1,0 +1,6 @@
+my_string = (input("Введите Ваше ФИО: "))
+print('Здравствуйте, ', my_string.upper(), '!')
+print('Здравствуйте, ', my_string.lower(), '!')
+print('Здравствуйте, ', my_string.replace(' ', ''), '!')
+print('Здравствуйте, ', my_string[0], '!')
+print('Здравствуйте, ', my_string[-1], '!')
