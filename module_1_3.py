@@ -1,8 +1,8 @@
-m = 'Bushido'
-print(m)
+name = 'Bushido'
+print(name)
 age = 21
 print(age)
-age = 21+3
+age = age+3
 print(age)
 is_student = True
 print(is_student)
